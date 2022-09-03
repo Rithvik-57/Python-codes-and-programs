@@ -1,0 +1,41 @@
+Code with Harry PYTHON COURSE
+
+1)comments , escape sequences 
+2)Variables, Datatypes, Typecasting
+3)String Slicing 
+4)Python Lists And List Functions
+5)Dictionary and Functions
+6)Sets
+7)If , else , elif
+8)For loops
+9)While loops
+10)Break and continue
+11)Operators
+12)Short hand if else notation
+13)Functions and docstrings
+14)Try except and exception , finally handling
+15)Python file IO
+16)Open , read , readline , write, append , seek , tell of file
+17)Scope , global variables and local variables
+18)Recursions anditerative approach
+19)Anoymous/Lamba Functions
+20)F-strings
+21)**args and **kwargs
+22)Virtual environments
+23)Enumerate Functions
+24)if__name__=="__main__"
+25)Join Functions
+26)Map, filter and reduce
+27)Decorators
+28)OOPS-Classes , objects ,instance variables and class variables
+   self and __init__ constructors ,class methods , static methods, 
+   abstraction and encaptualtion , single , multiple and multilevel inheritance
+   Public, private and protected access specifies , polymorphism , super()  and overriding
+   setters and property decorators , operator overloading and dunder methods , abstract base class
+   object introspection 
+29)Generators
+30)Python list , dict , genarator comprehensions
+31)fucntion caching
+32)Coroutines
+33)Raise fucntion
+34)Command line utility

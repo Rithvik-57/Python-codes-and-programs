@@ -1,0 +1,30 @@
+important python modules
+
+time                 - recording , pausing and everything about time
+datetime             - system time , clock
+pyttsx3,pywin32      - computer generated voice and speaker
+speech_recognition   - recognizes speech
+json                 - sending data in javascrpit through python
+requests             - http and web
+pygame               - playing sound and game related
+os                   - operating system , files , folders , etc
+cmath                - mathematics
+random               - pick or do anything randonly chosen
+pickle               - serializing objcts to bytes 
+
+Data science path way :
+1. Numpy 
+2. Pandas
+3. Python mysql / post sql
+4. Harrup
+5. Docker eyes
+
+Machine learning:
+1)TensorFlow
+2)sklearn
+
+GUI:
+Tkinter
+
+Web Dev:
+Flask

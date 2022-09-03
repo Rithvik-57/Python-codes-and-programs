@@ -1,0 +1,15 @@
+Design Specification	Justification	Success Criteria	Testing Method
+The bathroom should be white , cyan and silver themed 			
+The lighting in the room should be light yellow 			
+The bathroom should include an automatic seat cover commode with rgb lighting 			
+The bathroom should have a automatic hand dryer 			
+Should contain Automatic wash basin and tap			
+Should have a Rain Shower with heat control			
+Should contain Bath tub 			
+Should have small led screen 			
+Should have a switch box 			
+Should have a urinal
+			
+Should have taps of bath tub and shower			
+Partition wall between bath tub and commode			
+
